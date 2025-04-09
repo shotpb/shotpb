@@ -1,4 +1,4 @@
-## Hi there 👋
+## Nice to meet you. I'm Jiedi Mo and I'm a student at the University of Utah studying Computer Science.
 
 <!--
 **shotpb/shotpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
