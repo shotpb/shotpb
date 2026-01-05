@@ -1,11 +1,13 @@
 <h1 align="center">Hello, I'm Jiedi Mo</h1>
 <h3 align="center">Studying Game Development at The University of Utah</h3>
 
-- I’m currently working on [Cradle of The Rift](https://github.com/hainish1/Capstone-TeamCapybara)
+- I’m currently working on [Cradle of The Rift]([https://capycostudio.itch.io/prototype-build])
 
 <h3 align="left">Other Notable Works:</h3>
 <p align="left">
-
+- [Cradle of The Rift]([https://capycostudio.itch.io/prototype-build])
+- [Cradle of The Rift]([https://capycostudio.itch.io/prototype-build])
+- [Cradle of The Rift]([https://capycostudio.itch.io/prototype-build])
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
