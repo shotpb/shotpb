@@ -6,7 +6,7 @@
 <h3 align="left">Other Notable Works:</h3>
 
 * [Fallen Crown](https://czmavery.itch.io/fallen-crown) - A third-person Metroidvania set in a cursed castle. Developed in Unreal Engine 5.
-* [Death of The Artist](https://shotpb.itch.io/the-death-of-the-artist) - A short story about an artist's struggle between passion and paycheck.
+* [Death of The Artist](https://shotpb.itch.io/the-death-of-the-artist) - A short story about an artist's struggle between passion and paycheck. Developed in GameMaker.
 * [Educational Tactics](https://jiedimo.itch.io/educational-military-tactics) - An educational application focused on learning about military tactics and terms.
 
 
