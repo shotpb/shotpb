@@ -5,9 +5,9 @@
 
 <h3 align="left">Other Notable Works:</h3>
 
-* [Cradle of The Rift](https://capycostudio.itch.io/prototype-build)
-* [Cradle of The Rift](https://capycostudio.itch.io/prototype-build)
-* [Cradle of The Rift](https://capycostudio.itch.io/prototype-build)
+* [Fallen Crown](https://czmavery.itch.io/fallen-crown) - A third-person Metroidvania set in a cursed castle. Developed in Unreal Engine 5.
+* [Death of The Artist](https://shotpb.itch.io/the-death-of-the-artist) - A short story about an artist's struggle between passion and paycheck.
+* [Educational Tactics](https://jiedimo.itch.io/educational-military-tactics) - An educational application focused on learning about military tactics and terms.
 
 
 <h3 align="left">Languages and Tools:</h3>
