@@ -5,9 +5,9 @@
 
 <h3 align="left">Other Notable Works:</h3>
 <p align="left">
-- [Cradle of The Rift](https://capycostudio.itch.io/prototype-build)
-- [Cradle of The Rift](https://capycostudio.itch.io/prototype-build)
-- [Cradle of The Rift](https://capycostudio.itch.io/prototype-build)
+* [Cradle of The Rift](https://capycostudio.itch.io/prototype-build)
+* [Cradle of The Rift](https://capycostudio.itch.io/prototype-build)
+* [Cradle of The Rift](https://capycostudio.itch.io/prototype-build)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
