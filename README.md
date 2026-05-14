@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Jiedi Mo</h1>
-<h3 align="center">Studying Game Development at University of Southern California</h3>
+<h3 align="center">Currently studying Game Development at the University of Southern California</h3>
 
 - Recently released [Cradle of The Rift](https://store.steampowered.com/app/4323020/Cradle_of_the_Rift/)
 
