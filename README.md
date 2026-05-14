@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Jiedi Mo</h1>
-<h3 align="center">Studying Game Development at The University of Utah</h3>
+<h3 align="center">Studying Game Development at University of Southern California</h3>
 
-- I’m currently working on [Cradle of The Rift](https://capycostudio.itch.io/prototype-build)
+- Recently released [Cradle of The Rift](https://store.steampowered.com/app/4323020/Cradle_of_the_Rift/)
 
 <h3 align="left">Other Notable Works:</h3>
 
